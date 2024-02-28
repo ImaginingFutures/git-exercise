@@ -8,3 +8,6 @@
 8. Hungary - Budapest
 9. India - New Delhi
 10. Japan - Tokyo
+11. Vietnam - Hanoi
+12. Argentina - Buenos Aires
+13. Norway - Oslo
