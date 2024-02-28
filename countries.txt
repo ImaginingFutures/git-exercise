@@ -10,9 +10,10 @@
 10. Japan - Tokyo
 11. Ghana - Accra
 12. Wakanda - Osu
-11. Vietnam - Hanoi
-12. Argentina - Buenos Aires
-13. Norway - Oslo
-14. Belgium - brussels
-15. Togo - Lome
+13. Vietnam - Hanoi
+14. Argentina - Buenos Aires
+15. Norway - Oslo
+16. Belgium - brussels
+17. Togo - Lome
+
 
