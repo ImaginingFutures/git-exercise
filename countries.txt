@@ -10,3 +10,6 @@
 10. Japan - Tokyo
 11. Ghana - Accra
 12. Wakanda - Osu
+13. Vietnam - Hanoi
+14. Argentina - Buenos Aires
+15. Norway - Oslo
