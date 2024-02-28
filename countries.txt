@@ -13,3 +13,7 @@
 13. Vietnam - Hanoi
 14. Argentina - Buenos Aires
 15. Norway - Oslo
+16. Belgium - brussels
+17. Togo - Lome
+
+
